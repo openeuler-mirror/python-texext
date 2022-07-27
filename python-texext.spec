@@ -1,6 +1,6 @@
 Name:           python-texext
-Version:        0.6.6
-Release:        2
+Version:        0.6.7
+Release:        1
 Summary:        Sphinx extensions for working with LaTeX math
 
 License:        MIT
@@ -42,6 +42,9 @@ This package contains Sphinx extensions for working with LaTeX math.
 %{python3_sitelib}/texext-%{version}-py%{python3_version}.egg-info
 
 %changelog
+* Sun Jul 24 2022 hkgy <kaguyahatu@outlook.com> - 0.6.7
+- Update to 0.6.7
+
 * Tue May 10 2022 houyingchao <houyingchao@h-partners.com> - 0.6.6-2
 - License compliance rectification
 
